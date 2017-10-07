@@ -8,6 +8,13 @@ sudo apt install [软件包名]
 改变权限:
 添加权限 chmod u+x [文件名] 可执行
 删除权限 chmod u-x [文件名]
+知识点：
+r:读
+w:写
+x:执行
+d:文件夹
+-:普通文件
+
 
 默认的 bash 的脚本文件 #! /bin/bash
 
