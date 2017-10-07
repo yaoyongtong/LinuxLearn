@@ -11,4 +11,4 @@ VLC 视频播放  未装
 gitg   Git repository browser
 
 优化工具tweak tool 未装
-
+unity tweak tool 未装

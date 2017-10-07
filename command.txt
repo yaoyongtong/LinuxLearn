@@ -6,6 +6,11 @@ sudo apt install [软件包名]
 
 
 改变权限:
+chgrp:改变群组 /etc/group   查看 less /etc/group 修改 chgrp [群组名] [文件名]
+chown：改变拥有者 /etc/passwd
+chmod：改变属性 r:read w:write x:excute
+
+
 添加权限 chmod u+x [文件名] 可执行
 删除权限 chmod u-x [文件名]
 知识点：
