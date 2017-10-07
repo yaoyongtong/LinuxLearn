@@ -1,0 +1,22 @@
+下载githu官网的资料
+初始化配置本地：
+git config --global user.name "注册github的用户名"
+git config --global user.email "注册github的邮箱"
+
+---------------------------------
+git clone [复制的地址]
+
+
+fork 抄写别人的资料到自己账户
+git clone [复制的地址]    克隆到本地
+进入克隆的文件目录里：
+git remote add [帐户名] [账户资料网址]  添加远程仓库
+git remote rm [帐户名] 删除远程仓库
+
+git remote -v  版本
+
+git pull [from] [to]  从哪个仓库拉文件到哪里 比如:git pull [yaoyongtong] [master]
+git status  查看被修改的文件
+git add [修改的文件的名字]  把文件送入缓存区
+git commit -m "留言" 把缓存区的内容提交到本地仓库，-m "留言"，记录message
+git push  把提交的内容推送到网上账户

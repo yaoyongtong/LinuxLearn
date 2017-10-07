@@ -1,0 +1,14 @@
+
+新增软件----------------------------------------------------------------
+
+sudo apt-get install apvlv﻿      apvlv。一个vim模式的pdf阅读器
+Guake Terminal 功能只有一个, 按 F12 时从屏幕顶部 嗖! 地下来一个
+VLC 视频播放  未装
+美化/主题：Unity Tweak Tool 不成功
+截图工具 shutter
+垃圾清理 BleachBit
+下方的浮动图标工具栏：docky 未装
+gitg   Git repository browser
+
+优化工具tweak tool 未装
+
