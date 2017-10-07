@@ -12,3 +12,5 @@ gitg   Git repository browser
 
 优化工具tweak tool 未装
 unity tweak tool 未装
+
+
