@@ -13,6 +13,7 @@ sudo apt install [软件包名]
 
 echo fjsldjlj > [文件名]
 
+
 pwd  当前工作目录路径
 ls 包含的文件目录
 ls -al -ll 详细文件信息
