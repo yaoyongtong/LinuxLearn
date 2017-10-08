@@ -1,9 +1,3 @@
 # LinuxLearn
 learn notes
 
-
-  
-  
-
-
-
